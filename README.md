@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @djw-m aka Dj Walker-Morgan (also @codepope in a personal capacity)
+- 👀 I’m interested in making lovely docs for EDB
+- 💞️ I’m looking to collaborate on docs for EDB and Postgres
+- 📫 Reach me as dj.walker-morgan@enterprisedb.com
